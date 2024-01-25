@@ -151,4 +151,4 @@ Selecting our project, getting hands-on with hardware, and implementing various 
    - [YouTube Channel](https://www.youtube.com/@ELECTRONOOBS)
    - [3D Parts Video](https://youtu.be/JFTJ2SS4xyA?si=9nZ70lV41_FnEzLK)
 
-*Authors Ahmmet Cankardes, Furkan Karatoprak, Nermin Bozkurt*
+*Authors: Ahmmet Cankardes, Furkan Karatoprak, Nermin Bozkurt*
