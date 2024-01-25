@@ -4,7 +4,7 @@ This repository contains the term project for the EE407 Process Control course a
 
 ## Project Definition
 
-The objective of this experiment was to investigate the effects of P, PI, and PID controllers on the Ball and Beam System. The team utilized a Hot Wheels car with a straight surface attached to it to improve measurements instead of a ball, enabling it to move on specially designed rails.
+The objective of this experiment was to investigate the effects of P, PI, and PID controllers on the Ball and Beam System. The team utilized a Hot Wheels car with a straight surface attached to it to improve measurements instead of a ball, enabling it to move on rails(rails are maden by wooden chopsticks 😃).
 
 <p align="center">
   <img src="/images/setup.png" alt="Figure 1 - Setup"/>
