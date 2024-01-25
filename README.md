@@ -145,7 +145,7 @@ Selecting our project, getting hands-on with hardware, and implementing various 
 
 ## References
 
-1. [Ball & Beam: System Modeling](https://ctms.engin.umich.edu/CTMS/index.php?example=BallBeam§ion=SystemModeling)
+1. [Ball & Beam: System Modeling](https://ctms.engin.umich.edu/CTMS/index.php?example=BallBeam&section=SimulinkModeling)
 2. [AntonAshraf/Ball-Beam-PID-Control](https://github.com/AntonAshraf/Ball-Beam-PID-Control)
 3. Electronoobs Designs
    - [YouTube Channel](https://www.youtube.com/@ELECTRONOOBS)
