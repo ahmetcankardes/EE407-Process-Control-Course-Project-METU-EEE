@@ -1,6 +1,6 @@
 # EE407 Process Control Project - Ball and Beam System with Electronic Controller
 
-This repository contains the term project for the EE407 Process Control course at METU EEE. The team, consisting of Ahmet Cankardes, [Furkan Karatoprak](https://www.linkedin.com/in/furkan-karatoprak-5991201bb/), and [Nermin Bozkurt](https://www.linkedin.com/in/nerminbozkurt/), developed an innovative approach to the classic Ball and Beam System using an Arduino ultrasonic sensor and a cool Hot Wheels car 🚗.
+This repository contains the term project for the EE407 Process Control course at METU EEE. The team, consisting of [Ahmet Cankardes](https://www.linkedin.com/in/ahmet-cankardes-379528215/), [Furkan Karatoprak](https://www.linkedin.com/in/furkan-karatoprak-5991201bb/), and [Nermin Bozkurt](https://www.linkedin.com/in/nerminbozkurt/), developed an innovative approach to the classic Ball and Beam System using an Arduino ultrasonic sensor and a cool Hot Wheels car 🚗.
 
 ## Project Definition
 
